@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Arthur/AndroidstudioProjects/Amazing/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">CubeJumper</string>
+    <string name="back">Back</string>
+    <string name="but1">Scores</string>
+    <string name="but2">Options</string>
+    <string name="destroy">Exit</string>
+    <string name="empty">Empty</string>
+    <string name="gameOver">Game Over</string>
+    <string name="game_name">Cube Jumper</string>
+    <string name="game_version">Alpha 4.5</string>
+    <string name="menu">Menu</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="retry">Retry</string>
+    <string name="saved_high_score">highScore</string>
+    <string name="scoreZero">Score : 000000</string>
+    <string name="start">Start</string>
+    <string name="surrender">Surrender</string>
+    <string name="titleScores">Scores</string>
+    <string name="zero">000000</string>
+    <!-- From: file:/C:/Users/Arthur/AndroidstudioProjects/Amazing/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

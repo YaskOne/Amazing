@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CubeJumper</string>
+    <string name="game_name">Cube Jumper</string>
+    <string name="game_version">Alpha 4.5</string>
+    <string name="start">Start</string>
+    <string name="but1">Scores</string>
+    <string name="but2">Options</string>
+    
+    <string name="titleScores">Scores</string>
+    <string name="empty">Empty</string>
+    <string name="back">Back</string>
+    
+    <string name="zero">000000</string>
+    
+    <string name="resume">Resume</string>
+    <string name="surrender">Surrender</string>
+    
+    <string name="pause">Pause</string>
+    
+    <string name="scoreZero">Score : 000000</string>
+    <string name="gameOver">Game Over</string>
+    
+    <string name="retry">Retry</string>
+    <string name="menu">Menu</string>
+    <string name="destroy">Exit</string>
+    <string name="saved_high_score">highScore</string>
+    <string name="title_activity_position">Position</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+        
+</resources>

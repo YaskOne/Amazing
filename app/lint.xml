@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="ClickableViewAccessibility" severity="ignore" />
+    <issue id="FloatMath">
+        <ignore path="src/com/amazing/core/GameRuntime.java" />
+    </issue>
+</lint>
